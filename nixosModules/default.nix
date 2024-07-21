@@ -1,6 +1,6 @@
 {
   imports = [
     ./configuration.nix
-    ./virtualisation.nix
+    #./virtualisation.nix
   ];
 }
