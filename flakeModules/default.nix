@@ -2,9 +2,9 @@
 
 {
   imports = [
-    ./catppuccin.nix
+    #./catppuccin.nix
     ./disko.nix
-    ./home-manager.nix
-    ./lanzaboote.nix
+    #./home-manager.nix
+    #./lanzaboote.nix
   ];
 }
